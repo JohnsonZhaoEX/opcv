@@ -1,1 +1,1 @@
-g++ -o DisplayImage DisplayImage.cpp `pkg-config opencv --cflags --libs`
+g++ -o ./DisplayImage/DisplayImage ./DisplayImage/DisplayImage.cpp `pkg-config opencv --cflags --libs`
