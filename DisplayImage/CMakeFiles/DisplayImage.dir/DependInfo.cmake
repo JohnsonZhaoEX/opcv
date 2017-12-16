@@ -10,6 +10,8 @@ set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/home/johnson/install/anaconda3/include/opencv"
+  "/home/johnson/install/anaconda3/include"
   )
 
 # Targets to which this target links.

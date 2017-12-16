@@ -53,8 +53,6 @@ CMAKE_SOURCE_DIR = /home/johnson/git/opencv/DisplayImage
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/johnson/git/opencv/DisplayImage
 
-export LD_LIBRARY_PATH=/home/johnson/install/anaconda3/lib:$LD_LIBRARY_PATH
-
 #=============================================================================
 # Targets provided globally by CMake.
 
